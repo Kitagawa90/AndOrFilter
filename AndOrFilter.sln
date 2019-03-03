@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndOrFilter", "AndOrFilter\AndOrFilter.csproj", "{6BE50F2D-D4EB-4F5E-A078-8203CD284273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndOrFilterTest", "AndOrFilterTest\AndOrFilterTest.csproj", "{447F8C41-AD47-440F-ACF2-FB9E56C4D1B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE50F2D-D4EB-4F5E-A078-8203CD284273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE50F2D-D4EB-4F5E-A078-8203CD284273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE50F2D-D4EB-4F5E-A078-8203CD284273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE50F2D-D4EB-4F5E-A078-8203CD284273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447F8C41-AD47-440F-ACF2-FB9E56C4D1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447F8C41-AD47-440F-ACF2-FB9E56C4D1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447F8C41-AD47-440F-ACF2-FB9E56C4D1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447F8C41-AD47-440F-ACF2-FB9E56C4D1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B0A10B-06E8-4539-A15E-6107B2B6CA5C}
+	EndGlobalSection
+EndGlobal
